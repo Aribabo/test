@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NodeJS-1572B6?style=flat&logo=NodeJS&logoColor=green"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gephi-gray?style=flat&logo=Gephi&logoColor=black"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/R-white?style=flat&logo=R5&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/R-white?style=flat&logo=R&logoColor=black"/>&nbsp;&nbsp;
 ## 툴
  <img src="https://img.shields.io/badge/pyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
