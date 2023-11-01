@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NodeJS-1572B6?style=flat&logo=NodeJS&logoColor=green"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gephi-gray?style=flat&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/R-E34F26?style=flat&logo=R5&logoColor=black"/>&nbsp;&nbsp;
 **NodeJS**
 **Gephi**
 **R**
