@@ -1,7 +1,8 @@
 # 👩이정흔의 깃허브📜
 
 ## 언어
-**Python**
+<img src="https://img.shields.io/badge/Python-EE4C2C?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+
 **R**
 **SQL**
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
